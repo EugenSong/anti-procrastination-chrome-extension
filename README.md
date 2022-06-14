@@ -30,4 +30,8 @@ The * includes all web pages with the base domain.
 
 3) Once edited, don't forget to go back into Extensions Icon --> "Manage Extensions" --> "Update" to load new changes
 <img width="588" alt="Screen Shot 2022-06-14 at 3 49 25 PM" src="https://user-images.githubusercontent.com/75242911/173701992-a5dd8d3f-0389-4fb3-9317-28be47fabe7d.png">
+--------------------------------------------------------------------------------------------------
 
+HOW TO EDIT DOMAIN TO REDIRECT TO:
+1) Go into ```script.js```
+2) Edit URL to your liking 
