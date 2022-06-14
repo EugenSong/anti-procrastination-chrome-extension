@@ -1,0 +1,25 @@
+{
+    "name": "The Anti-Procrastination Chrome Plugin",
+    "version": "1.0", 
+    "description": "Redirects listed domains to google.com", 
+    "manifest_version": 3, 
+    "author": "Eugene Song",  
+    "action": {
+        "default_icon": {
+            "16": "16.png",
+            "32": "32.png",
+            "64": "64.png",
+            "128": "128.png"
+        }
+    },
+    "content_scripts": [
+        {
+            "matches": [
+                "https://lichess.org/",
+                "https://www.youtube.com/*"
+            ],
+            "js": ["script.js"]
+        }
+    ]
+    
+}
