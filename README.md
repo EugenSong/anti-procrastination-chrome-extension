@@ -1,7 +1,7 @@
 # anti-procrastination-chrome-extension
 A Chrome extension for procrastinators - Redirects any domain to domain of your choosing (default set to google.com) 
 
--------------------------------------- STEPS TO INCLUDE IN CHROME BROWSER -----------------------------
+ STEPS TO INCLUDE IN CHROME BROWSER:
 
 1) Download and open zip file
 2) At the top of browser, click on the **Extension Icon** <img width="39" alt="Screen Shot 2022-06-14 at 3 12 42 PM" src="https://user-images.githubusercontent.com/75242911/173698084-91384fb3-82fa-4768-8659-845a6b48c30c.png">
@@ -14,13 +14,16 @@ A Chrome extension for procrastinators - Redirects any domain to domain of your 
 <img width="1223" alt="Screen Shot 2022-06-14 at 3 08 17 PM" src="https://user-images.githubusercontent.com/75242911/173697633-47762e87-d15d-412e-900d-672b00ca69db.png">
 
 5) Select directory containing unzipped file 
+------------------------------------------------------------------------------------
 
 
 
---------------------------------------- HOW TO ADD / EDIT DOMAINS YOU WANT TO REDIRECT FROM -------------------------------
+HOW TO ADD / EDIT DOMAINS YOU WANT TO REDIRECT FROM: 
 
 1) Using any code editor, go into ```manifest.json``` 
 
 2) Add/edit the domains under "matches" to your liking. 
 The * includes all web pages with the base domain. 
 <img width="322" alt="Screen Shot 2022-06-14 at 3 19 22 PM" src="https://user-images.githubusercontent.com/75242911/173698820-857bdaee-2497-4370-aaee-dfa5b2c1b8c2.png">
+
+3) Once edited, don't forget to go back into Extensions Icon --> "Manage Extensions" --> "Update" to load new changes
