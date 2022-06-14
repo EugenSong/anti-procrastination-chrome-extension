@@ -29,3 +29,5 @@ The * includes all web pages with the base domain.
 <img width="322" alt="Screen Shot 2022-06-14 at 3 19 22 PM" src="https://user-images.githubusercontent.com/75242911/173698820-857bdaee-2497-4370-aaee-dfa5b2c1b8c2.png">
 
 3) Once edited, don't forget to go back into Extensions Icon --> "Manage Extensions" --> "Update" to load new changes
+<img width="588" alt="Screen Shot 2022-06-14 at 3 49 25 PM" src="https://user-images.githubusercontent.com/75242911/173701992-a5dd8d3f-0389-4fb3-9317-28be47fabe7d.png">
+
