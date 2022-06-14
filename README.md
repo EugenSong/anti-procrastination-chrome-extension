@@ -1,7 +1,7 @@
 ![128](https://user-images.githubusercontent.com/75242911/173700184-2c87415c-b49c-4a09-87c2-99d2e4e67f64.png)
 
 # anti-procrastination-chrome-extension
-A Chrome extension for procrastinators - Redirects any domain to domain of your choosing (default set to google.com) 
+Redirects any domain to domain of your choosing (default set to google.com) 
 
  STEPS TO INCLUDE IN CHROME BROWSER:
 
