@@ -1,9 +1,11 @@
 ![128](https://user-images.githubusercontent.com/75242911/173700184-2c87415c-b49c-4a09-87c2-99d2e4e67f64.png)
 
 # anti-procrastination-chrome-extension
+=
 Redirects any domain/s to one domain of your choosing (default set to google.com) 
 
  STEPS TO INCLUDE IN CHROME BROWSER:
+ -
 
 1) Download and open zip file
 2) At the top of browser, click on the **Extension Icon** <img width="39" alt="Screen Shot 2022-06-14 at 3 12 42 PM" src="https://user-images.githubusercontent.com/75242911/173698084-91384fb3-82fa-4768-8659-845a6b48c30c.png">
@@ -21,6 +23,7 @@ Redirects any domain/s to one domain of your choosing (default set to google.com
 
 
 HOW TO ADD / EDIT DOMAINS YOU WANT TO REDIRECT FROM: 
+-
 
 1) Using any code editor, go into ```manifest.json``` 
 
@@ -33,5 +36,6 @@ The * includes all web pages with the base domain.
 --------------------------------------------------------------------------------------------------
 
 HOW TO EDIT DOMAIN TO REDIRECT TO:
+-
 1) Go into ```script.js```
 2) Edit URL to your liking 
